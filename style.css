@@ -1,0 +1,119 @@
+.nevek{
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+a {
+    font-size: larger;
+}
+
+img {
+    margin: 0;
+    height: 200px;
+}
+
+div {
+    margin-top: 20px;
+}
+
+  th {
+    width: 100px;
+    border: 2px black solid;
+}
+
+tr {
+    border: 2px black solid;
+}
+
+table {
+    margin-top: 10%;
+    margin-left: 20%;
+    padding: 0;
+    border: 2px black solid;
+    text-align: center;
+}
+
+td {
+    height: 50px;
+    border: 2px black solid;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: #111;
+}
+
+.main {
+      color: lime;
+}
+
+.kollazs {
+      color: rgb(150, 255, 150);
+}
+
+.flag {
+    color: rgb(150, 255, 150);
+}
+
+.orarend {
+    color: rgb(150, 255, 150);
+}
+
+.red {
+    color: darkred;
+    background-color: darkred;
+    margin-left: 20%;
+    margin-top: 5%;
+    margin-right: 20%;
+    height: 250px;
+}
+
+.white {
+    margin-top: 0%;
+    color: white;
+    background-color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 250px;
+}
+
+.green {
+    margin-top: 0%;
+    color: green;
+    background-color: green;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 250px;
+}
+
+#cimer {
+    text-align: center;
+}
+
+#kollazs {
+    height: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
